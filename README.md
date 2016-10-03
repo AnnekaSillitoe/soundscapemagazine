@@ -6,7 +6,7 @@ Soundscape Magazine's current website runs through the use of WordPress. I want 
 
 ## Why?
 
-I occasionally still write freelance projects for the website and used to run the site myself. I would like to combine some of my favourite things into a practice project to build a site that will utilise my skills and allow the team to move away from WordPress in the future, should it wish to.
+I occasionally still write freelance projects for the website and used to run the site myself. I would like to combine some of my favourite things into a practice project to build a site that will utilise my skills and allow the team to move away from WordPress in the future.
 
 ## How?
 
